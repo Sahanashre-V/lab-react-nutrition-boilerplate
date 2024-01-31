@@ -1,4 +1,4 @@
-export default [{
+let FoodData=  [{
   id:0,
   img:"https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/pizza-react.jpg",
   name:"pizza",
@@ -30,3 +30,4 @@ export default [{
 },
 
 ]
+export default FoodData

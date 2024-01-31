@@ -1,0 +1,37 @@
+.media{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.imageoffood{
+  height: 40px;
+}
+
+.incbutton{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box{
+  width:50%;
+  margin-top: 30px;
+  background-color: #8080805c;
+}
+
+.reset{
+  background-color: grey;
+  color:white;
+  border: none;
+}
+
+.calcCalorie{
+  display: flex;
+  gap:10px;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+}
